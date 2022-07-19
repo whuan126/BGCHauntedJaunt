@@ -3,6 +3,7 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 /LemonProject/Temp/UnityLockFile
+/LemonProject/Temp/FSTimeGet-7fe8a8fa3b58356418648710317fa420
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
