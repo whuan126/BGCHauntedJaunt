@@ -3651,7 +3651,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   navMeshAgent: {fileID: 0}
   waypoints: []
-  m_CurrentWaypointIndex: 0
 --- !u!1 &623592031 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5878007051789266484, guid: 59ed677d8da596d409d943c584f4b1c7,
