@@ -12,3 +12,9 @@
   c) Don’t bite off more than you can chew – ensure this is something you can complete within a week. <br />
   
   https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner
+
+Current features to be implemented:
+1. Add collision "capturing" to ghosts
+  a) Game should end when player comes in contact with a ghost <br />
+2. Add keys to open up the final exit 
+  a) Creates an objective for the player rather than head straight for the exit. <br />
