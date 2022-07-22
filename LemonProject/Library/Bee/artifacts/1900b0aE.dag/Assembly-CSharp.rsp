@@ -363,6 +363,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 "Assets/Scripts/EnemyCollision.cs"
 "Assets/Scripts/GameEnding.cs"
+"Assets/Scripts/KeyCollection.cs"
 "Assets/Scripts/LightFlicker.cs"
 "Assets/Scripts/Observer.cs"
 "Assets/Scripts/PlayerMovement.cs"

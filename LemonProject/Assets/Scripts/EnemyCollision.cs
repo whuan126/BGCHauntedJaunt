@@ -12,7 +12,7 @@ public class EnemyCollision : MonoBehaviour
     {
         if (collide.gameObject.tag == "Player")
         {
-            Debug.Log("Player is touching");
+            //Debug.Log("Player is touching");
             m_IsPlayerTouching = true;
         }
     }
@@ -20,7 +20,7 @@ public class EnemyCollision : MonoBehaviour
     {
         if (collide.gameObject.tag == "Player")
         {
-            Debug.Log("Player is NOT touching");
+            //Debug.Log("Player is NOT touching");
             m_IsPlayerTouching = false;
         }
     }
@@ -29,7 +29,7 @@ public class EnemyCollision : MonoBehaviour
     {
         if(m_IsPlayerTouching)
         {
-            Debug.Log("John Lemon is caught!");
+            //Debug.Log("John Lemon is caught!");
             gameEnding.CaughtPlayer();
         }
     }
