@@ -14,8 +14,10 @@ public class EscapeKeyCollected : MonoBehaviour
         if (keyCollect.gameObject.tag == "Player")
         {
             Destroy(gameObject);
-            Destroy(MoveWall1);
-            Destroy(MoveWall2);
+            Destroy(ExitWall1);
+            Destroy(ExitWall2);
+            Destroy(ExitWall3);
+            Destroy(ExitWall4);
         }
     }
 }
